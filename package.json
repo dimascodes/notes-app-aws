@@ -20,6 +20,8 @@
     "nodemon": "^3.1.4"
   },
   "dependencies": {
-    "@hapi/hapi": "^21.3.10"
+    "@hapi/hapi": "^21.3.10",
+    "newman": "^6.2.1",
+    "nvm": "^0.0.4"
   }
 }
